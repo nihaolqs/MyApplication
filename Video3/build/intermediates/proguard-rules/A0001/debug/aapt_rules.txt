@@ -70,30 +70,28 @@
 # view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
 -keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
 
-# view AndroidManifest.xml #generated:121
-# view AndroidManifest.xml #generated:99
+# view AndroidManifest.xml #generated:109
 -keep class com.alipay.sdk.app.H5PayActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:105
-# view AndroidManifest.xml #generated:127
+# view AndroidManifest.xml #generated:115
 -keep class com.alipay.sdk.auth.AuthActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:117
+# view AndroidManifest.xml #generated:127
 -keep class com.switfpass.pay.activity.QQWapPayWebView { <init>(...); }
 
-# view AndroidManifest.xml #generated:142
+# view AndroidManifest.xml #generated:153
 -keep class com.wo.main.WP_Receiver { <init>(...); }
 
-# view AndroidManifest.xml #generated:134
+# view AndroidManifest.xml #generated:145
 -keep class com.wo.main.WP_Service { <init>(...); }
 
-# view AndroidManifest.xml #generated:85
+# view AndroidManifest.xml #generated:95
 -keep class com.wo.main.WP_V_PayLoad { <init>(...); }
 
-# view AndroidManifest.xml #generated:78
+# view AndroidManifest.xml #generated:88
 -keep class com.wo.main.WP_V_PayMain { <init>(...); }
 
-# view AndroidManifest.xml #generated:91
+# view AndroidManifest.xml #generated:101
 -keep class com.wo.main.WP_V_PayResult { <init>(...); }
 
 # view res/layout/wp_f_main.xml #generated:203
@@ -105,34 +103,34 @@
 # view res/layout/wp_v_pay.xml #generated:254
 -keep class com.wo.plugin.szf.WP_F_Main { <init>(...); }
 
-# view AndroidManifest.xml #generated:113
+# view AndroidManifest.xml #generated:123
 -keep class dxtx.dj.pay.ui.PayActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:31
+# view AndroidManifest.xml #generated:41
 -keep class lvxingdaka.com.app.App { <init>(...); }
 
-# view AndroidManifest.xml #generated:63
+# view AndroidManifest.xml #generated:73
 -keep class lvxingdaka.com.ui.activity.ActiveActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:75
+# view AndroidManifest.xml #generated:85
 -keep class lvxingdaka.com.ui.activity.ListActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:47
+# view AndroidManifest.xml #generated:57
 -keep class lvxingdaka.com.ui.activity.MainActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:71
+# view AndroidManifest.xml #generated:81
 -keep class lvxingdaka.com.ui.activity.PayActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:64
+# view AndroidManifest.xml #generated:74
 -keep class lvxingdaka.com.ui.activity.ProtocolActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:50
+# view AndroidManifest.xml #generated:60
 -keep class lvxingdaka.com.ui.activity.SplashActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:59
+# view AndroidManifest.xml #generated:69
 -keep class lvxingdaka.com.ui.activity.VideoActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:65
+# view AndroidManifest.xml #generated:75
 -keep class lvxingdaka.com.ui.activity.VideoPlayActivity { <init>(...); }
 
 # view res/layout/item_comment.xml #generated:19

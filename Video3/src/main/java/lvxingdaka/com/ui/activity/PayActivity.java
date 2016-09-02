@@ -14,8 +14,13 @@ import android.widget.RadioButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import dxtx.dj.pay.PayuPlugin;
+import dxtx.dj.pay.enums.PayType;
+import dxtx.dj.pay.iter.PayBack;
+import dxtx.dj.pay.model.OrderModel;
 import lvxingdaka.com.R;
 import lvxingdaka.com.app.Consts;
+import lvxingdaka.com.app.DxtxPay;
 import lvxingdaka.com.utils.AppUtil;
 import lvxingdaka.com.utils.SPUtil;
 import lvxingdaka.com.utils.ToastUtil;
@@ -112,14 +117,17 @@ public class PayActivity extends AppCompatActivity implements View.OnClickListen
             String type = wxBtn.isChecked() ? MainApplication.PAY_WX_WAP : MainApplication.PAY_QQ_WAP;
             int typeV = 0;
             if(wxBtn.isChecked()){
-                typeV = 0;
+//                typeV = 0;
+                doPay(PayType.PAY_WX);
             }else if(qqBtn.isChecked()){
                 typeV = 3;
+                onPay(typeV,name,money);
             }else{
-                typeV = 2;
+//                typeV = 2;
+                doPay(PayType.PAY_ZFB);
             }
             //new DoPay(this, type).execute();
-            onPay(typeV,name,money);
+//            onPay(typeV,name,money);
         }
     }
 
@@ -241,5 +249,40 @@ public class PayActivity extends AppCompatActivity implements View.OnClickListen
         } else {
             ToastUtil.show(this, "取消支付");
         }
+    }
+
+    //以下为盾行天下支付方法
+
+    private void doPay(PayType payType) {
+        OrderModel model = getOrderModel(payType);
+        PayuPlugin.getPayPlugin().pay(PayActivity.this, DxtxPay.APP_KEY, model, new PayBack() {
+
+            @Override
+            public void success() {
+                // 标示支付成功
+                Toast.makeText(PayActivity.this, "支付成功", Toast.LENGTH_SHORT).show();
+            }
+
+            @Override
+            public void failure(int errorCode, String errorMsg) {
+                if (-1 == errorCode) {
+                    // 用户行为取消以及相关动作（微信和支付宝反馈失败信息）
+                } else {
+                    // 通讯以及其他异常，请查看errorCode以及对应errorMsg
+                }
+                Toast.makeText(PayActivity.this, "支付失败 " + errorCode + " " + errorMsg, Toast.LENGTH_SHORT).show();
+            }
+        });
+    }
+
+    private OrderModel getOrderModel(PayType payType) {
+        String orderId = "" + System.currentTimeMillis() + (int) (Math.random() * 1000);// 用户自定义生成的订单号
+        String address = DxtxPay.address_url;// 回调地址(服务器同步通知地址) 可空
+        int goods_id = DxtxPay.goods_id;// 商品id
+        double price = money;// 价格 单位元 类型double 不得小于1元
+        String privateinfo = "";// 商户自定义传递信息 可空
+        String goods_name = "";// 商品名称 可空
+        return new OrderModel(orderId, address, payType, goods_id, goods_name, price, privateinfo);
+
     }
 }

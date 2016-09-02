@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:2:1-191:12
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:2:1-201:12
 	package
 		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:3:5-29
 		INJECTED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml
@@ -62,7 +62,7 @@ ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:23:5-81
 	android:name
 		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:23:22-78
 application
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:27:5-189:19
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:37:5-199:19
 MERGED from [com.android.support:appcompat-v7:23.2.1] E:\MyApplication7\Video3\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:23.2.1] E:\MyApplication7\Video3\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.2.1] E:\MyApplication7\Video3\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
@@ -72,264 +72,264 @@ MERGED from [com.android.support:support-vector-drawable:23.2.1] E:\MyApplicatio
 MERGED from [com.android.support:support-v4:23.2.1] E:\MyApplication7\Video3\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.2.1] E:\MyApplication7\Video3\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:31:9-41
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:41:9-41
 	android:supportsRtl
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:32:9-35
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:42:9-35
 	android:allowBackup
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:29:9-35
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:39:9-35
 	android:icon
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:30:9-43
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:40:9-43
 	android:theme
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:33:9-40
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:43:9-40
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:28:9-46
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:38:9-46
 meta-data#UMENG_APPKEY
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:35:9-37:35
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:45:9-47:35
 	android:value
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:37:13-32
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:47:13-32
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:36:13-40
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:46:13-40
 meta-data#UMENG_CHANNEL
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:38:9-40:52
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:48:9-50:52
 	android:value
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:40:13-49
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:50:13-49
 		INJECTED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:39:13-41
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:49:13-41
 activity#lvxingdaka.com.ui.activity.MainActivity
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:42:9-76
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:52:9-76
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:42:19-73
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:52:19-73
 activity#lvxingdaka.com.ui.activity.SplashActivity
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:45:9-53:20
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:55:9-63:20
 	android:theme
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:47:13-55
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:57:13-55
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:46:13-69
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:56:13-69
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:48:13-52:29
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:58:13-62:29
 action#android.intent.action.MAIN
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:49:17-69
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:59:17-69
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:49:25-66
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:59:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:51:17-77
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:61:17-77
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:51:27-74
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:61:27-74
 activity#lvxingdaka.com.ui.activity.VideoActivity
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:54:9-57:52
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:64:9-67:52
 	android:screenOrientation
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:57:13-49
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:67:13-49
 	android:launchMode
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:56:13-44
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:66:13-44
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:55:13-68
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:65:13-68
 activity#lvxingdaka.com.ui.activity.ActiveActivity
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:58:9-78
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:68:9-78
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:58:19-75
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:68:19-75
 activity#lvxingdaka.com.ui.activity.ProtocolActivity
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:59:9-80
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:69:9-80
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:59:19-77
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:69:19-77
 activity#lvxingdaka.com.ui.activity.VideoPlayActivity
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:60:9-65:58
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:70:9-75:58
 	android:screenOrientation
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:64:13-50
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:74:13-50
 	android:launchMode
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:63:13-44
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:73:13-44
 	android:configChanges
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:62:13-68
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:72:13-68
 	android:theme
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:65:13-55
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:75:13-55
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:61:13-72
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:71:13-72
 activity#lvxingdaka.com.ui.activity.PayActivity
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:66:9-69:73
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:76:9-79:73
 	android:label
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:68:13-33
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:78:13-33
 	android:theme
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:69:13-70
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:79:13-70
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:67:13-66
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:77:13-66
 activity#lvxingdaka.com.ui.activity.ListActivity
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:70:9-76
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:80:9-76
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:70:19-73
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:80:19-73
 activity#com.wo.main.WP_V_PayMain
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:75:9-81:67
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:85:9-91:67
 	android:screenOrientation
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:79:13-49
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:89:13-49
 	android:launchMode
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:78:13-43
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:88:13-43
 	android:windowSoftInputMode
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:81:13-64
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:91:13-64
 	android:configChanges
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:77:13-74
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:87:13-74
 	android:theme
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:80:13-72
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:90:13-72
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:76:13-52
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:86:13-52
 activity#com.wo.main.WP_V_PayLoad
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:82:9-87:75
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:92:9-97:75
 	android:screenOrientation
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:86:13-49
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:96:13-49
 	android:launchMode
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:85:13-43
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:95:13-43
 	android:configChanges
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:84:13-74
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:94:13-74
 	android:theme
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:87:13-72
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:97:13-72
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:83:13-52
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:93:13-52
 activity#com.wo.main.WP_V_PayResult
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:88:9-95:70
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:98:9-105:70
 	android:screenOrientation
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:93:13-49
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:103:13-49
 	android:label
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:91:13-45
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:101:13-45
 	android:launchMode
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:92:13-43
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:102:13-43
 	android:windowSoftInputMode
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:95:13-67
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:105:13-67
 	android:configChanges
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:90:13-74
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:100:13-74
 	android:theme
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:94:13-72
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:104:13-72
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:89:13-54
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:99:13-54
 activity#com.alipay.sdk.app.H5PayActivity
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:96:9-101:70
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:106:9-111:70
 	android:screenOrientation
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:100:13-47
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:110:13-47
 	android:exported
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:99:13-37
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:109:13-37
 	android:windowSoftInputMode
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:101:13-67
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:111:13-67
 	android:configChanges
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:98:13-85
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:108:13-85
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:97:13-60
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:107:13-60
 activity#com.alipay.sdk.auth.AuthActivity
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:102:9-106:50
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:112:9-116:50
 	android:screenOrientation
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:106:13-47
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:116:13-47
 	android:exported
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:105:13-37
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:115:13-37
 	android:configChanges
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:104:13-74
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:114:13-74
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:103:13-60
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:113:13-60
 activity#dxtx.dj.pay.ui.PayActivity
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:111:9-114:75
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:121:9-124:75
 	android:screenOrientation
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:113:13-49
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:123:13-49
 	android:theme
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:114:13-72
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:124:13-72
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:112:13-54
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:122:13-54
 activity#com.switfpass.pay.activity.QQWapPayWebView
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:115:9-118:75
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:125:9-128:75
 	android:screenOrientation
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:117:13-49
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:127:13-49
 	android:theme
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:118:13-72
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:128:13-72
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:116:13-70
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:126:13-70
 service#com.wo.main.WP_Service
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:132:9-137:19
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:142:9-147:19
 	android:enabled
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:134:13-35
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:144:13-35
 	android:exported
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:135:13-36
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:145:13-36
 	android:permission
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:136:13-75
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:146:13-75
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:133:13-50
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:143:13-50
 receiver#com.wo.main.WP_Receiver
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:140:9-168:20
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:150:9-178:20
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:140:19-57
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:150:19-57
 intent-filter#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:141:13-145:29
-	android:priority
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:141:28-57
-action#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:144:17-79
-	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:144:25-76
-intent-filter#android.intent.action.BOOT_COMPLETED
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:146:13-150:29
-	android:priority
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:146:28-57
-action#android.intent.action.BOOT_COMPLETED
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:149:17-79
-	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:149:25-76
-intent-filter#android.intent.action.PACKAGE_REMOVED
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:151:13-157:29
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:151:13-155:29
 	android:priority
 		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:151:28-57
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:154:17-79
+	android:name
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:154:25-76
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:156:13-160:29
+	android:priority
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:156:28-57
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:159:17-79
+	android:name
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:159:25-76
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:161:13-167:29
+	android:priority
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:161:28-57
 action#android.intent.action.PACKAGE_REMOVED
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:154:17-80
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:164:17-80
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:154:25-77
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:164:25-77
 data
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:156:17-50
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:166:17-50
 	android:scheme
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:156:23-47
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:166:23-47
 intent-filter#android.intent.action.START_REPORT
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:158:13-162:29
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:168:13-172:29
 	android:priority
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:158:28-57
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:168:28-57
 action#android.intent.action.START_REPORT
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:161:17-77
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:171:17-77
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:161:25-74
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:171:25-74
 intent-filter#android.intent.action.CBOOT_COMPLETED
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:163:13-167:29
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:173:13-177:29
 	android:priority
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:163:28-57
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:173:28-57
 action#android.intent.action.CBOOT_COMPLETED
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:166:17-80
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:176:17-80
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:166:25-77
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:176:25-77
 meta-data#VIASDKVERSION
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:172:9-175:21
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:182:9-185:21
 	android:value
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:174:13-36
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:184:13-36
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:173:13-41
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:183:13-41
 meta-data#APPID
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:178:9-85
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:188:9-85
 	android:value
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:178:41-72
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:188:41-72
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:178:20-40
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:188:20-40
 meta-data#APPKEY
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:180:9-103
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:190:9-103
 	android:value
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:180:42-90
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:190:42-90
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:180:20-41
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:190:20-41
 meta-data#APPSECRET
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:182:9-106
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:192:9-106
 	android:value
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:182:45-93
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:192:45-93
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:182:20-44
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:192:20-44
 meta-data#APPDATA
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:184:9-90
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:194:9-90
 	android:value
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:184:43-77
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:194:43-77
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:184:20-42
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:194:20-42
 meta-data#APPCODE
-ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:186:9-104
+ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:196:9-104
 	android:value
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:186:43-91
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:196:43-91
 	android:name
-		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:186:20-42
+		ADDED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml:196:20-42
 uses-sdk
 INJECTED from E:\MyApplication7\Video3\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.2.1] E:\MyApplication7\Video3\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:21:5-23:78

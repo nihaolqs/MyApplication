@@ -96,12 +96,12 @@
         "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\item_live.xml"
     },
     {
-        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\activity_protocol.xml",
-        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\activity_protocol.xml"
-    },
-    {
         "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\activity_protocol.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\activity_protocol.xml"
     },
     {
         "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_action_bar_up_container.xml",
