@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2e2e2e</color>
+    <color name="colorPrimaryDark">#252525</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColorPrimary">#262626</color>
+    <color name="windowBackground">#dcdcdc</color>
+    <color name="tab_focus">#1ec197</color>
+    <color name="dialog_pay_btn_color">#cf5813</color>
+    <color name="pay_btn">#f06e1a</color>
+    <color name="tran">#40000000</color>
+    <color name="pay_bg">#3d0a13</color>
+</resources>

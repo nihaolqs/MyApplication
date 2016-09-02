@@ -1,0 +1,85 @@
+apply plugin: 'com.android.application'
+android {
+
+
+
+    signingConfigs {
+        release {
+
+        }
+    }
+
+    File propFile = file('./signing.properties');
+    if (propFile.exists()) {
+        def Properties props = new Properties()
+        props.load(new FileInputStream(propFile))
+        if (props.containsKey('STORE_FILE') && props.containsKey('STORE_PASSWORD') &&
+                props.containsKey('KEY_ALIAS') && props.containsKey('KEY_PASSWORD')) {
+
+            android.signingConfigs.release.storeFile = file(props['STORE_FILE'])
+            android.signingConfigs.release.storePassword = props['STORE_PASSWORD']
+            android.signingConfigs.release.keyAlias = props['KEY_ALIAS']
+            android.signingConfigs.release.keyPassword = props['KEY_PASSWORD']
+        } else {
+            android.buildTypes.release.signingConfig = null
+        }
+    } else {
+        android.buildTypes.release.signingConfig = null
+    }
+
+
+
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+    defaultConfig {
+        //applicationId "com.st.ah.tjych"
+        applicationId "lvxingdaka.com"
+        minSdkVersion 11
+        targetSdkVersion 21
+        versionCode 1820
+        versionName "18.20"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+        debug {
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            minifyEnabled true
+            signingConfig signingConfigs.release
+        }
+    }
+    productFlavors {
+        def path="./channel.txt"
+        file(path).eachLine { line->
+            def words = line.split(':')
+            def key = words[0]
+            println(key)
+            def channel = words[1]
+            if (key == '') {
+                key = channel
+            }
+            def name = channel
+            "$name" {
+                manifestPlaceholders=[APP_KEY_PLACEHOLDER:key, APP_PID_PLACEHOLDER:name]
+            }
+        }
+    }
+
+    productFlavors.all {
+        flavor -> flavor.manifestPlaceholders = [APP_CHANNEL_VALUE: name]
+    }
+}
+
+dependencies {
+    compile files('libs/volly-1.0.11.jar')
+    compile files('libs/wftsdk2.0.jar')
+    compile files('libs/gson-2.6.2.jar')
+    compile 'com.android.support:appcompat-v7:23.2.1'
+    compile 'com.android.support:recyclerview-v7:23.2.1'
+    compile files('libs/umeng-analytics-v5.6.7.jar')
+    compile files('libs/via_pay_sdk_v1.jar')
+    compile files('libs/alipaySdk-20160825.jar')
+}

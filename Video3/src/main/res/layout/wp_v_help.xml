@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#88000000"
+    android:gravity="center"
+    android:orientation="vertical" >
+	
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="20dp"
+        android:background="@drawable/wp_c_0"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="《充值卡服务章程》"
+            android:textColor="#000000"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center_vertical"
+                android:text="极速手机充值卡支付业务介绍\n\n手机充值卡在线支付为商家提供在线验卡并可接受消费者提供的中国移动、中国联通、中国电信发行的多种手机充值卡，方便个人使用非银行卡支付方式进行付款，手机充值卡有着发行范围广、购卡渠道便捷，面值灵活的特点，将会为游戏厂商带来更多的消费者.
+\n\n极速手机充值卡支付可以带来什么?\n\n
+可以支持包括中国移动、中国联通和中国电信在内发行的手机充值卡
+手机充值卡购买方便，不泄露银行卡信息，帮助您扩展用户群
+\n\n手机充值卡支付说明:\n\n
+“神州行充值卡面额”必须与充值卡的实际面额一致，否则可能导致支付不成功或余额丢失
+支持的充值卡面额为30元、50元、100元、300元、500元，请勿使用其他面额进行消费
+序列号17位、密码18位，标明能为“神州行”充值的“中国移动”发行的卡都可以消费
+手机充值卡支付支持江苏移动充值卡(序列号16位、密码17位)消费
+支持浙江移动电子缴费券(序列号10位、密码8位)消费
+支持福建刮刮通充值卡(序列号16位、密码17位)消费
+\n\n手机充值卡付款时产生了余额怎么办?\n\n
+支持分次消费，如果您的订单金额小于卡面额，为避免您的损失，请在当此消费后保存好所使用的充值卡，便于下次消费使用。\r\n
+\n\n用手机充值卡支付的好处？\n\n
+随时随地多选择购买：手机充值卡有50元、100元多种币值卡，在全国各个城市都能够随处购买。 透明完全无后顾之忧：具有一次性和瞬间完成的特点，故透明、安全、不会遗留安全隐患。
+\n\n购买手机充值卡时应注意什么?\n\n
+购买手机充值卡请到固定的网点，最好避免在流动摊点购买，以免出现纠纷。购买时请注意充值卡的密封完整性及截止使用日期。"
+                android:textColor="#666666"
+                android:textSize="13sp" />
+        </ScrollView>
+
+        <Button
+            android:id="@+id/wp_b_b0"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_weight="0"
+            android:background="@drawable/wp_c_1"
+            android:text="我知道了"
+            android:textColor="@android:color/white"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

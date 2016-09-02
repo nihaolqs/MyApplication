@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">午夜播视</string>
+    <string name="home">首页</string>
+    <string name="channel">频道</string>
+    <string name="star">精品</string>
+    <string name="user">用户</string>
+    <string name="face">face</string>
+    <string name="vip">会员服务</string>
+    <string name="contact">联系客服</string>
+    <string name="protocol">用户协议</string>
+    <string name="active">激活码激活</string>
+    <string name="update">检查更新</string>
+    <string name="exit">退出</string>
+    <string name="exit_text">您是否确认要退出该应用吗？</string>
+    <string name="contact_text">尊敬的会员，如果您有任何疑问或者建议，请联系我们的在线客服QQ%s。工作时间09:00-22:00，我们会在第一时间为您解答，感谢您的支持。</string>
+    <string name="account">用户账号</string>
+    <string name="protocol_text">
+亲爱的用户：\n
+在使用魅惑影院(以下简称魅惑影院)，请您务必仔细阅读并透析理解本声明。你可以选择不使用魅惑影院，但您如果使用魅惑影院，你的行为将被视为对本声明的全部认可。 魅惑影院中的视频均为魅惑影院以非人工检索方式，根据你的选择或建于的关键词自动生成到地网页的链接，除魅惑影院注明之服务条款外，其他一切因使用魅惑影院而可能造成的意外，疏忽，侵权及其他的损失和魅惑影院没有任何关系。\n
+魅惑影院所转载的文字、图片、音视频等资料，如果侵犯了第三方的知识产权或其他权利，责任由作者或转载者本人承担，本APP对此不承担责任。  魅惑影院不保证为向用户提供便利而设置的外部链接的准确性和完整性，同时，对于该外部链接指向的不由魅惑影院实际控制的任何网页上的内容，魅惑影院不承担任何责任。  用户明确并同意其使用魅惑影院网络服务所存在的风险将完全由其本人承担；因其使用魅惑影院网络服务而产生的一切后果也由其本人承担，APP手机APP对此不承担任何责任。\n
+除魅惑影院注明之服务条款外，其它因不当使用本APP而导致的任何意外、疏忽、合约毁坏、诽谤、版权或其他知识产权侵犯及其所造成的任何损失，APP手机APP概不负责，亦不承担任何法律责任。\n
+对于因不可抗力或因黑客攻击、通讯线路中断等魅惑影院不能控制的原因造成的网络服务中断或其他缺陷，导致用户不能正常使用魅惑影院，魅惑影院不承担任何责任，但将尽力减少因此给用户造成的损失或影响。\n
+本声明未涉及的问题请参见国家有关法律法规，当本声明与国家有关法律法规冲突时，以国家法律法规为准。\n
+本网站相关声明版权及其修改权、更新权和最终解释权均属APP手机APP所有。</string>
+</resources>

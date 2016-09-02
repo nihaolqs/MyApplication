@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar_base" />
+
+    <LinearLayout
+        android:id="@+id/bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimaryDark"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tabHome"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@mipmap/tab_home_focus"
+            android:gravity="center_horizontal"
+            android:text="@string/home"
+            android:textColor="@color/tab_focus" />
+
+        <TextView
+            android:id="@+id/tabChannel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@mipmap/tab_channel_normal"
+            android:gravity="center_horizontal"
+            android:text="@string/channel"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/tabStar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@mipmap/tab_star_normal"
+            android:gravity="center_horizontal"
+            android:text="@string/star"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/tabUser"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@mipmap/tab_user_normal"
+            android:gravity="center_horizontal"
+            android:text="@string/user"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bottom"
+        android:layout_below="@+id/toolbar" />
+</RelativeLayout>

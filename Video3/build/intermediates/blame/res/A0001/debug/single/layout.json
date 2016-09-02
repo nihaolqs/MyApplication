@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\wp_v_progress.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\wp_v_progress.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\wp_f_main.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\wp_f_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\item_channel.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\item_channel.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\activity_active.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\activity_active.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\wp_v_pay.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\wp_v_pay.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\wp_f_buy.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\wp_f_buy.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\item_setting.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\item_setting.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\wp_v_title.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\wp_v_title.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\item_live.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\item_live.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\activity_protocol.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\activity_protocol.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\dialog_pay.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\dialog_pay.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\wp_r_s0.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\wp_r_s0.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\toolbar_base.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\toolbar_base.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\activity_video_play.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\activity_video_play.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\activity_list.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\dialog_pay2.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\dialog_pay2.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\item_video.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\item_video.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\item_comment.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\video_header.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\video_header.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\fragment_refreshandload.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\fragment_refreshandload.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\wp_v_help.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\wp_v_help.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\activity_pay.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\activity_pay.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\activity_video.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\wp_v_payresult.xml",
+        "source": "E:\\MyApplication7\\Video3\\src\\main\\res\\layout\\wp_v_payresult.xml"
+    },
+    {
+        "merged": "E:\\MyApplication7\\Video3\\build\\intermediates\\res\\merged\\A0001\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\MyApplication7\\Video3\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    }
+]

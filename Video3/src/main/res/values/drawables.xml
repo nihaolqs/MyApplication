@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="set_normal">#ffffff</drawable>
+    <drawable name="set_pressed">#f8f8f8</drawable>
+    <drawable name="main_green">#1ec197</drawable>
+    <drawable name="main_green_dark">#13ac85</drawable>
+    <drawable name="video_default">#000000</drawable>
+    <drawable name="bg_gray">#efefef</drawable>
+    <color name="main_green">#1ec197</color>
+    <color name="comment_gray">#5b5b5b</color>
+</resources>

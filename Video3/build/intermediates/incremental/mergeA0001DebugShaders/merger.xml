@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\MyApplication7\Video3\src\main\shaders"/></dataSet><dataSet config="A0001"><source path="E:\MyApplication7\Video3\src\A0001\shaders"/></dataSet><dataSet config="debug"><source path="E:\MyApplication7\Video3\src\debug\shaders"/></dataSet><dataSet config="A0001Debug"><source path="E:\MyApplication7\Video3\src\A0001Debug\shaders"/></dataSet></merger>

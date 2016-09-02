@@ -1,0 +1,136 @@
+# view res/layout/activity_main.xml #generated:58
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:75
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:40
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/activity_list.xml #generated:9
+# view res/layout/activity_video.xml #generated:11
+# view res/layout/fragment_refreshandload.xml #generated:2
+-keep class android.support.v4.widget.SwipeRefreshLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:48
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/activity_list.xml #generated:14
+# view res/layout/activity_video.xml #generated:16
+# view res/layout/fragment_refreshandload.xml #generated:7
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:78
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/toolbar_base.xml #generated:2
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view AndroidManifest.xml #generated:99
+-keep class com.alipay.sdk.app.H5PayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:105
+-keep class com.alipay.sdk.auth.AuthActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:120
+-keep class com.wo.main.WP_Receiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:112
+-keep class com.wo.main.WP_Service { <init>(...); }
+
+# view AndroidManifest.xml #generated:85
+-keep class com.wo.main.WP_V_PayLoad { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.wo.main.WP_V_PayMain { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class com.wo.main.WP_V_PayResult { <init>(...); }
+
+# view res/layout/wp_f_main.xml #generated:203
+-keep class com.wo.plugin.szf.SwitchButton { <init>(...); }
+
+# view res/layout/wp_v_pay.xml #generated:261
+-keep class com.wo.plugin.szf.WP_F_Buy { <init>(...); }
+
+# view res/layout/wp_v_pay.xml #generated:254
+-keep class com.wo.plugin.szf.WP_F_Main { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class lvxingdaka.com.app.App { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class lvxingdaka.com.ui.activity.ActiveActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class lvxingdaka.com.ui.activity.ListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class lvxingdaka.com.ui.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class lvxingdaka.com.ui.activity.PayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class lvxingdaka.com.ui.activity.ProtocolActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class lvxingdaka.com.ui.activity.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class lvxingdaka.com.ui.activity.VideoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class lvxingdaka.com.ui.activity.VideoPlayActivity { <init>(...); }
+
+# view res/layout/item_comment.xml #generated:19
+-keep class lvxingdaka.com.ui.widget.CircleImageView { <init>(...); }
+
+# onClick res/layout/wp_v_payresult.xml #generated:144
+# onClick res/layout/wp_v_title.xml #generated:13
+-keepclassmembers class * { *** on_Exit(...); }
+

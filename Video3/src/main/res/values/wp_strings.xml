@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="wp_s0">
+        <item>中国移动充值卡</item>
+        <item>中国联通充值卡</item>
+        <item>中国电信充值卡</item>
+    </string-array>
+    
+    <string-array name="wp_s1">
+        <item>30元</item>
+        <item>50元</item>
+        <item>100元</item>
+        <item>200元</item>
+        <item>300元</item>
+        <item>500元</item>
+    </string-array>
+	
+</resources>
