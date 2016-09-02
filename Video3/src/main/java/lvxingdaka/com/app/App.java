@@ -10,6 +10,8 @@ import android.util.LruCache;
 import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.ImageLoader;
 import com.android.volley.toolbox.Volley;
+
+import dxtx.dj.pay.PayuPlugin;
 import lvxingdaka.com.utils.AppUtil;
 import lvxingdaka.com.utils.SPUtil;
 import com.wo.main.WP_App;
@@ -47,6 +49,10 @@ public class App extends Application {
         WP_App.on_AppInit(getApplicationContext());
 
         //SPUtil.putInt(this, Consts.SP.VIP, 1);
+
+        //盾行天下初始化
+
+        PayuPlugin.getPayPlugin().init(this, DxtxPay.APP_KEY);
 
     }
 

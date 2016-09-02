@@ -1,1 +1,2 @@
 include 'Video3'
+include ':dxtxPayDemo'

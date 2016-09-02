@@ -70,16 +70,21 @@
 # view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
 -keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
 
+# view AndroidManifest.xml #generated:121
 # view AndroidManifest.xml #generated:99
 -keep class com.alipay.sdk.app.H5PayActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:105
+# view AndroidManifest.xml #generated:127
 -keep class com.alipay.sdk.auth.AuthActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:120
+# view AndroidManifest.xml #generated:117
+-keep class com.switfpass.pay.activity.QQWapPayWebView { <init>(...); }
+
+# view AndroidManifest.xml #generated:142
 -keep class com.wo.main.WP_Receiver { <init>(...); }
 
-# view AndroidManifest.xml #generated:112
+# view AndroidManifest.xml #generated:134
 -keep class com.wo.main.WP_Service { <init>(...); }
 
 # view AndroidManifest.xml #generated:85
@@ -99,6 +104,9 @@
 
 # view res/layout/wp_v_pay.xml #generated:254
 -keep class com.wo.plugin.szf.WP_F_Main { <init>(...); }
+
+# view AndroidManifest.xml #generated:113
+-keep class dxtx.dj.pay.ui.PayActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:31
 -keep class lvxingdaka.com.app.App { <init>(...); }
