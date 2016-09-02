@@ -6,7 +6,7 @@ import android.view.animation.Animation;
 import android.view.animation.ScaleAnimation;
 import android.widget.ImageView;
 
-import com.video1.play105.R;
+import lvxingdaka.com.R;
 import lvxingdaka.com.utils.AppUtil;
 
 public class SplashActivity extends BaseActivity {

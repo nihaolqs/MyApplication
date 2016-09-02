@@ -5,7 +5,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.android.volley.toolbox.ImageLoader;
-import com.video1.play105.R;
+
+import lvxingdaka.com.R;
 import lvxingdaka.com.bean.Video;
 import lvxingdaka.com.ui.activity.BaseActivity;
 import lvxingdaka.com.ui.recyclerview.VideoViewHolder;

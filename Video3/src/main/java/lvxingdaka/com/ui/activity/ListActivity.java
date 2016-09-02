@@ -8,7 +8,7 @@ import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
-import com.video1.play105.R;
+import lvxingdaka.com.R;
 import lvxingdaka.com.bean.Video;
 import lvxingdaka.com.presenter.ListPresenter;
 import lvxingdaka.com.ui.adapter.BaseRecyclerAdapter;

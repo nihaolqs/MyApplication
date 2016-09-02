@@ -2,7 +2,7 @@ package lvxingdaka.com.ui.activity;
 
 import android.os.Bundle;
 
-import com.video1.play105.R;
+import lvxingdaka.com.R;
 
 public class ProtocolActivity extends BaseActivity {
 

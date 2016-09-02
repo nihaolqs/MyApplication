@@ -14,14 +14,15 @@ import android.widget.TextView;
 
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.ImageRequest;
-import com.video1.play105.R;
+
+import lvxingdaka.com.R;
 import lvxingdaka.com.app.Consts;
 import lvxingdaka.com.bean.Comment;
 import lvxingdaka.com.bean.Video;
 import lvxingdaka.com.presenter.VideoPresenter;
 import lvxingdaka.com.ui.adapter.CommentHeaderAdapter;
 import lvxingdaka.com.ui.view.IVideoView;
-import com.video1.utils.SPUtil;
+import lvxingdaka.com.utils.SPUtil;
 import lvxingdaka.com.utils.ToastUtil;
 import lvxingdaka.com.utils.volley.RespCallback;
 

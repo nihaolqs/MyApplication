@@ -4,7 +4,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.video1.play105.R;
+import lvxingdaka.com.R;
 import lvxingdaka.com.ui.adapter.BaseRecyclerAdapter;
 
 /**

@@ -12,9 +12,9 @@ import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.VideoView;
 
-import com.video1.play105.R;
+import lvxingdaka.com.R;
 import lvxingdaka.com.app.Consts;
-import com.video1.utils.SPUtil;
+import lvxingdaka.com.utils.SPUtil;
 
 public class VideoPlayActivity extends BaseActivity implements MediaPlayer.OnErrorListener, MediaPlayer.OnCompletionListener, MediaPlayer.OnPreparedListener {
     private static String VIDEO_URL = "url";

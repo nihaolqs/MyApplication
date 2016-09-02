@@ -1,4 +1,4 @@
-package com.video1.ui.fragment;
+package lvxingdaka.com.ui.fragment;
 
 import android.support.v7.widget.GridLayoutManager;
 import android.view.View;

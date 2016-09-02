@@ -19,10 +19,11 @@ import com.switfpass.pay.utils.MD5;
 import com.switfpass.pay.utils.SignUtils;
 import com.switfpass.pay.utils.Util;
 import com.switfpass.pay.utils.XmlUtils;
-import com.video1.play105.R;
+
+import lvxingdaka.com.R;
 import lvxingdaka.com.app.Consts;
 import lvxingdaka.com.utils.AppUtil;
-import com.video1.utils.SPUtil;
+import lvxingdaka.com.utils.SPUtil;
 import lvxingdaka.com.utils.ToastUtil;
 
 import java.util.HashMap;

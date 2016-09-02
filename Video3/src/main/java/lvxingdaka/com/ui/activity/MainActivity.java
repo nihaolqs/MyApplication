@@ -11,14 +11,13 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.TextView;
 
-import com.video1.play105.R;
+import lvxingdaka.com.R;
 import lvxingdaka.com.app.Consts;
 import lvxingdaka.com.ui.adapter.FragmentAdapter;
 import lvxingdaka.com.ui.fragment.ChannelFragment;
 import lvxingdaka.com.ui.fragment.HomeFragment;
-import com.video1.ui.fragment.LiveFragment;
 import lvxingdaka.com.ui.fragment.UserFragment;
-import com.video1.utils.SPUtil;
+import lvxingdaka.com.utils.SPUtil;
 import lvxingdaka.com.utils.ToastUtil;
 
 import java.util.ArrayList;
@@ -40,7 +39,6 @@ public class MainActivity extends BaseActivity implements View.OnClickListener, 
         List<Fragment> fragments = new ArrayList<>();
         fragments.add(new HomeFragment());
         fragments.add(new ChannelFragment());
-        fragments.add(new LiveFragment());
         fragments.add(new UserFragment());
         viewPager = (ViewPager) findViewById(R.id.viewPager);
         viewPager.setAdapter(new FragmentAdapter(getSupportFragmentManager(), fragments));
